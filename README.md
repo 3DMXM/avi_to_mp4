@@ -1,8 +1,8 @@
 #【视频工具】批量 avi 转 mp4工具
+
 一个简单的工具，使用Python进行编写
 
 源码地址：https://github.com/3DMXM/avi_to_mp4
-
 
 不要问我为什么不做UI，太麻烦了，再加上懒得设计界面
 
@@ -10,7 +10,9 @@
 
 ##下载地址：
     3DM Mod站下载：https://mod.3dmgame.com/mod/166663
+    
     我的网盘下载：https://pan.aoe.top/Tools/avi_to_mp4/
+    
 ##作用：
     可批量将目录中的所有avi视频转换为mp4，并保留原视频的画质，无压制输出，最大程度上保留了视频的原画质
 
